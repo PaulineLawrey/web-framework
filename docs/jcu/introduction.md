@@ -11,7 +11,7 @@ by various web applications at JCU.  The JCU Web Framework builds upon
 responsive, mobile-first sites and applications.
 
 This *living style guide* features reusable components for web applications and 
-provides a starting point for theming JCU projects on the web.  The
+provides a starting point for theming JCU projects on the web.  This
 documentation features worked examples of:
 
 * All Bootstrap standard components
@@ -21,8 +21,7 @@ documentation features worked examples of:
 * Interactive page templates
 
 No two web applications are identical and how an application owner or vendor
-themes an app will also.  Bootstrap was selected as the base for this project as
-its ubiquitous nature means that software products and vendors are likely to
+themes an application will also vary.  Bootstrap was selected as the base for this project as its ubiquitous nature means that software products and vendors are likely to
 already have a theming story involving Bootstrap, if they don't already use
 Bootstrap by default.
 
